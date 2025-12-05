@@ -1,6 +1,6 @@
 # Nougat Installation & Setup
 
-This directory contains scripts to reproduce the working Nougat environment.
+This directory contains scripts produce a working [Nougat](https://github.com/facebookresearch/nougat) environment.
 
 ## Contents
 
