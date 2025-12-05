@@ -1,0 +1,7 @@
+nougat-ocr==0.1.17
+transformers==4.37.2
+pypdfium2==4.0.0
+albumentations==1.3.1
+fastapi==0.123.10
+uvicorn==0.38.0
+python-multipart==0.0.20
